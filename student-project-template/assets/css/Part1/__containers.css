@@ -1,0 +1,21 @@
+#image-pan > .container > a > img.ref_image {
+    width: 45vmin;
+    height: 50vmin;
+    object-fit: fill;
+    object-position: center;
+}
+
+#image-pan {
+    display: flex;
+    gap: 7vmin;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    transform: translate(0%, 0%) ;
+    text-align: center;
+    color: darkgoldenrod;
+    user-select: none;
+}
+#image-pan > .container > a {
+    color: darkcyan;
+}

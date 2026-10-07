@@ -1,0 +1,13 @@
+.analysis-title{
+    text-align: center;
+    font-size: 3vmax;
+    color: palegoldenrod;
+    position: static;
+}
+
+.analysis-return{
+    top: 0;
+    left: 0;
+    font-size: 1vmax;
+    position: fixed;
+}

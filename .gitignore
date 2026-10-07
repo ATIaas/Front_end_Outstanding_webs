@@ -25,6 +25,7 @@ private/*
 # Explicit (covered by private/ above; documented for portability to other repos)
 # private/exams/
 # private/exams-out/
+student-project-template/node_modules
 
 # SQLite databases (local/dev artifacts)
 *.db
