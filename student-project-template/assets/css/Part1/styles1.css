@@ -1,10 +1,10 @@
 
-@import '__reset.css';
+@import './__reset.css';
 
-@import '__links.css';
+@import './__links.css';
 
-@import '__body.css';
+@import './__body.css';
 
-@import '__text.css';
+@import './__text.css';
 
-@import '__containers.css';
+@import './__containers.css';
